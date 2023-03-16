@@ -1,3 +1,3 @@
 # Student
 Student API
-### my repo
+### my repository
