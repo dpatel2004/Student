@@ -11,6 +11,6 @@ git status
 git commit -m "I updated readme"
 
 ### Push into main branch
-git push -u origi main
+git push -u origin main
 
 
